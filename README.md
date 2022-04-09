@@ -10,8 +10,7 @@
 ### REQUIREMENTS :
 - python 3
 - tkinter module
-- from tkinter messagebox module
-- from PIL import Image, ImageTk
+- pillow
 - nltk
 
 ****
@@ -32,5 +31,5 @@
 - After that download the code file, and run text_summarizer.py on local system.
 - Then the script will start running and user can explore by entering any huge paragraph or text and summarizing it.
 
-****
+
 
